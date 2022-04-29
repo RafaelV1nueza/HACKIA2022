@@ -1,0 +1,8 @@
+HackIA
+Databese and python requirements
+
+****** requires the following software to be intalled in order to run:
+
+* // Library pyodbc, and datetime
+* SQL express, Can be downloaded from: https://www.microsoft.com/en-us/sql-server/sql-server-editions-express or https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+* Microsoft SQL Server Management Studio https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017
