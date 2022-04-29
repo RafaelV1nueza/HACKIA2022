@@ -1,5 +1,5 @@
 #librerias
-
+import csv
 #funciones
 
 #main
