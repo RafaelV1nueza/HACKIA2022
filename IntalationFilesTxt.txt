@@ -1,6 +1,8 @@
 HackIA
 Databese and python requirements
 
+pip install matplotlib
+
 ****** requires the following software to be intalled in order to run:
 
 * // Library pyodbc, and datetime
