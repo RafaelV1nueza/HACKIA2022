@@ -11,6 +11,9 @@ if __name__ == '__main__':
 
     #calculo con usos
 
+
+    #learning
+        #datasets
     #variables 
     heart_rate = 1
     insuline_levels = 2
